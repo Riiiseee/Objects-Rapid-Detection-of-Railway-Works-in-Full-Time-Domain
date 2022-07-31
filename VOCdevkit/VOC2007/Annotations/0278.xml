@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ys_dateset</folder>
+	<filename>0278.jpg</filename>
+	<path>C:\Users\50151\Desktop\ys_dateset\0278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1118</width>
+		<height>629</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>230</ymin>
+			<xmax>314</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

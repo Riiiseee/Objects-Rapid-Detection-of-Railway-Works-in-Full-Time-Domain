@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ys_dateset</folder>
+	<filename>0183.jpg</filename>
+	<path>C:\Users\50151\Desktop\ys_dateset\0183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>1228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BZD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>468</ymin>
+			<xmax>655</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

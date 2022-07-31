@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ys_dateset</folder>
+	<filename>0088.jpg</filename>
+	<path>C:\Users\50151\Desktop\ys_dateset\0088.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>1002</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DJ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>356</ymin>
+			<xmax>618</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>
